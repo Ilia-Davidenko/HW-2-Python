@@ -8,4 +8,4 @@ sum = 0
 for i in number:
     if i.isdigit():
         sum += int(i)
-print('Сумма цифр числа ', sum)
+print('Сумма цифр числа', sum)
