@@ -5,8 +5,7 @@
 number = int(input('Введите число '))
 multy = 1
 lst1 = []
-lst2 = ()
 for i in range(1, number + 1):
     multy *= i
     lst1.append(multy)
-print(lst1, lst2)
+print(lst1)
